@@ -7,8 +7,8 @@ To run the directory, simply put the checkpoint directly in this directory, outs
 
 Copiable scripts:
 
-'''git clone github.com/vinhhna/NeoPolyp'''
-
-'''cd NeoPolyp'''
-
-'''python3 infer.py --image_path image.jpeg'''
+    ```sh
+    git clone https://github.com/vinhhna/NeoPolyp.git
+    cd NeoPolyp
+    python3 infer.py --image_path image.jpeg
+    ```
